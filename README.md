@@ -14,4 +14,4 @@ But then... You are browsing a code-base in your favorite IDE. Multiple files op
 2. Put link to `TaskbarHider.ahk` in your startup script folder:
 Win+R to opened `Run`, enter `shell:startup`, a folder will be open in the file explorer. Place shortcut to script, or script itself in the folder.
 3. Either restart your machine, or to avoid restarting for the initial launch right click on script and click the `Run Script` context option.
-4. Profit
+4. Win+D will now toggle the visibility of the taskbar. This can be changed to any other keyboard shortcut AutoHotKey supports.
